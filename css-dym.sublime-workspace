@@ -1,0 +1,1310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lin",
+				"links"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"yello",
+				"yellowgreen"
+			],
+			[
+				"flex-conta",
+				".flex-container"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"eleventyCon",
+				"eleventyConfig"
+			],
+			[
+				"eleventyCo",
+				"eleventyConfig"
+			],
+			[
+				"adf",
+				"afadf"
+			],
+			[
+				"a",
+				"abbr"
+			],
+			[
+				"Codin",
+				"Coding with"
+			],
+			[
+				"featu",
+				"featuredImage"
+			],
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"bi",
+				"md:border-indigo-200 "
+			],
+			[
+				"transfor",
+				"transform "
+			],
+			[
+				"af",
+				"j.afn"
+			],
+			[
+				"Ho",
+				"HomePage"
+			],
+			[
+				"rfc",
+				"rfce"
+			],
+			[
+				"Landi",
+				"LandingPageLayout"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"inne",
+				"innerWidth"
+			],
+			[
+				"pag",
+				"pages/"
+			],
+			[
+				"i",
+				"items-center"
+			],
+			[
+				"js",
+				"menu.js"
+			],
+			[
+				"page",
+				"pages/"
+			],
+			[
+				"bg-ye",
+				"bg-yellow-300 "
+			],
+			[
+				"ju",
+				"justify-between "
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"react",
+				"react-router-dom"
+			],
+			[
+				"rfce",
+				"rafc,rafce"
+			],
+			[
+				"h-",
+				"h-16"
+			],
+			[
+				"justify",
+				"justify-between"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"div",
+				"div className=\""
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"htmlbo",
+				"htmlboiler"
+			],
+			[
+				"re",
+				"reduce"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"A",
+				"Array.from"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"hello",
+				"hello, world"
+			],
+			[
+				"bas",
+				"base+2,"
+			],
+			[
+				"funcs",
+				"funcs[5"
+			],
+			[
+				"func",
+				"funcs"
+			],
+			[
+				"10",
+				"10; i++) funcs[i"
+			],
+			[
+				"pe",
+				"predicate"
+			],
+			[
+				"function",
+				"function(v) {"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"coutner",
+				"counter"
+			],
+			[
+				"uni",
+				"uniqueInteger():"
+			],
+			[
+				"checkS",
+				"checkScope"
+			],
+			[
+				"ope",
+				"operate"
+			],
+			[
+				"unk",
+				"unknown"
+			],
+			[
+				"op",
+				"operators"
+			],
+			[
+				"path",
+				"pathogenic"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"this",
+				"this.name"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"const",
+				"console.log(\"this.name"
+			],
+			[
+				"oper",
+				"operand1"
+			],
+			[
+				"te",
+				"text-color"
+			],
+			[
+				"font-w",
+				"font-weights"
+			],
+			[
+				"medium",
+				"medium\": 400,"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"main",
+				"main.css"
+			],
+			[
+				"exte",
+				"extends:"
+			],
+			[
+				"Con",
+				"Container ="
+			],
+			[
+				"github",
+				"github"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"My",
+				"MyDocument"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"gutt",
+				"gutterBottom"
+			],
+			[
+				"T",
+				"Typography"
+			],
+			[
+				"class",
+				"className=\""
+			],
+			[
+				"cli",
+				"click=\""
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/NPM_BUILD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/NPM_START.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"maker",
+				"ProjectMaker: Create project"
+			],
+			[
+				"disp",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"liv",
+				"Live Server: Start"
+			],
+			[
+				"helper",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"v",
+				"View In Browser"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"",
+				"AddToFile: Set preview lines"
+			],
+			[
+				"liveste",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"livesa",
+				"Live Server: Start"
+			],
+			[
+				"livs",
+				"Live Server: Stop"
+			],
+			[
+				"enap",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tabr",
+				"tabr: Create Tab Order"
+			],
+			[
+				"tagi",
+				"Tagify: Get tag list"
+			],
+			[
+				"emren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"e",
+				"Emmet: Rename Tag"
+			],
+			[
+				"emre",
+				"Emmet: Rename Tag"
+			],
+			[
+				"terminaher",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"syorgmo",
+				"Table Editor: Set table syntax 'EmacsOrgMode' for current view"
+			],
+			[
+				"syormo",
+				"Set Syntax: orgmode"
+			],
+			[
+				"makepro",
+				"ProjectMaker: Create project"
+			],
+			[
+				"fas",
+				"fasd: Jump to directory"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"serverst",
+				"Live Server: Stop"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Live Server: Start"
+			],
+			[
+				"snippetman",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"makes",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"opter",
+				"Go: Open Terminal"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"fasd",
+				"fasd: Jump to directory"
+			],
+			[
+				"promake",
+				"ProjectMaker: Create project"
+			],
+			[
+				"gitmo",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"eval",
+				"EvalPrinter: Evaluate/Transpile"
+			],
+			[
+				"evalpr",
+				"EvalPrinter: Evaluate/Transpile"
+			],
+			[
+				"betsni",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"gitsa",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"io",
+				"iOpener: Find File"
+			],
+			[
+				"em",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"updatepa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lspty",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"sygfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"livepre",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"disp ",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitignore",
+				"git: ignore pattern"
+			],
+			[
+				"terta",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"jsp",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pu",
+				"git: push"
+			],
+			[
+				"comm",
+				"git: commit"
+			],
+			[
+				"ky",
+				"Preferences: Key Bindings"
+			],
+			[
+				"marlin",
+				"Markdown Link: Make from URL"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"git co",
+				"git: commit"
+			],
+			[
+				"git init",
+				"git: init"
+			],
+			[
+				"npin",
+				"WebDevShell: NPM Install"
+			],
+			[
+				"npmin",
+				"WebDevShell: NPM Init"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"sulinse",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"htmltidy",
+				"Formatter: Beautify With HTML Tidy"
+			],
+			[
+				"open te",
+				"Terminal: Open"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"npm inst",
+				"WebDevShell: NPM Install"
+			],
+			[
+				"jspr",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"npm in",
+				"WebDevShell: NPM Install"
+			],
+			[
+				"gitig",
+				"git: ignore pattern"
+			],
+			[
+				"git ini",
+				"git: init"
+			],
+			[
+				"npm init",
+				"WebDevShell: NPM Init"
+			],
+			[
+				"sesam",
+				"Sesame: Open"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"synunj",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"senun",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"tertab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"npmstar",
+				"WebDevShell: NPM Start"
+			],
+			[
+				"npmini",
+				"WebDevShell: NPM Init"
+			],
+			[
+				"dip",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitclo",
+				"git: clone"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"snmak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"termita",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lspta",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"disls",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"suunde",
+				"Sublundo: Visualize"
+			],
+			[
+				"enablls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"sebabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disp lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"syh",
+				"Set Syntax: HTML"
+			],
+			[
+				"helpe",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"sesop",
+				"Sesame: Open"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"imphli",
+				"Import Helper: List imports"
+			],
+			[
+				"imph",
+				"Import Helper: List imports"
+			],
+			[
+				"imporhe",
+				"Import Helper: Insert import"
+			],
+			[
+				"snrfce",
+				"Snippet: reactArrowFunctionComponent"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"removepa",
+				"Conda: Remove Package"
+			],
+			[
+				"nav",
+				"File Navigator: Open"
+			],
+			[
+				"navi",
+				"File Navigator: Open"
+			],
+			[
+				"ream",
+				"ReadmePlease"
+			],
+			[
+				"apply",
+				"ApplySyntax: Browse Syntaxes"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"stylef",
+				"Run Stylefmt"
+			],
+			[
+				"syjx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sybabel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"syjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"git remo",
+				"git: remote add"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"findin",
+				"Find: In Project"
+			],
+			[
+				"sesy",
+				"Set Syntax: JSX"
+			],
+			[
+				"snus",
+				"Snippet: useEffect"
+			],
+			[
+				"snuse",
+				"Snippet: useEffect"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 528.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"rbcl",
+			"aksjdfads",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/css-dm"
+	],
+	"file_history":
+	[
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/styles.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/03-9-layout-challenge-01/index.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Browser Refresh/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Tag/readme.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-6-simple-navigation-challenge-start/css/style.css",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/View In Browser.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/index.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/View In Browser/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-5-buttons-with-icons - start/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-5-buttons-with-icons/index.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/LiveServer/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Anaconda/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/global.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-3-alignment/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-4-alignment-baseline/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-2-justification-02/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox-simplified/05-2-justification-02/css/style.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/CSS/flexbox/flexbox.sublime-project",
+		"/Volumes/SynologyMain/_NEW DOWNLOADS/MonsterJavaScriptCourse/39. Popup message/6. Final Source Code Popup Message.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/orgmode/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/_GHrepo/eleventy-tailwindcss-alpinejs-starter/_includes/ Example Org File.org",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/OrgExtended/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/_GHrepo/eleventy-tailwindcss-alpinejs-starter/index.njk",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/ProjectMaker/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/ProjectMaker.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/index.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/_site/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/_site/style.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/eleventy-project.sublime-project",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/snippets/npmbuild.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/node_modules/html-minifier/src/htmlminifier.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Snippets/npmbuild.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/package.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/ProjectMaker/ProjectMaker.sublime-settings",
+		"/Volumes/ExtremeSSD/index.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/package-lock.json",
+		"/Users/mac/Dropbox/Notes/.brain/Inbox.note",
+		"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/.prettierignore",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/.eleventy.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Rainbowth/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/GitGutter/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/.gitignore",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/package.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/MultiMarkdown.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/post-01.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/post-02.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/_site/post-01/index.html",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/_site/post-01/index-20210628180714.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Babel/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/JSONComma/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Emmet.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/eleventy-test/_includes/mylayout.njk",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Users/mac/Library/Application Support/Sublime Text/Packages/User/Emmet.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Users/mac/Library/Application Support/Sublime Text/Packages/User/Markdown Extended-20210628170232.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Markdown Extended.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Users/mac/Library/Application Support/Sublime Text/Packages/User/Markdown-20210627175438.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Markdown.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/Users/mac/photo-1621570277341-4fea9203f5e0.webp",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/.gitignore",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/_site/index.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/index.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/HtmlTidy.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/package.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/htmlhint.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/.cspell.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/.onsave",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Exalt/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/OnSave/Default.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/pyproject.toml",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/_includes/postslist.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/_configs/cSpell.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/posts/posts.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/posts/my-first-post.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/.jsbeautifyrc",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/.eleventy.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Context.sublime-menu",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.eleventy.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/public/index.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/base.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/_includes/header.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/_includes/footer.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/assets/logo.svg",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/description",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/package.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Shell Turtlestein/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/config",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/HEAD",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Snippets/impReact.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Snippets/importReact.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/App.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/reportWebVitals.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/tailwindcss-react-v1.sublime-project",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/App.css",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/TailwindCSS.sublime-syntax",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index-20210627015733.js",
+		"/Users/mac/Library/Caches/typescript/4.2/node_modules/@types/react-router-dom/index.d.ts",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.test.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/index.tailwind.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/logo.svg",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/public/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/layouts/LandingPage/index.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/pages/HomePage.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/components/Header.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Browser Sync/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/components/Header.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/pages/HomePage",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/.env",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/package.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index.tailwind.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Footer.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Navbar.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Content.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/pages/about.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 174.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 192.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 146.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 174.0
+	},
+	"output.keybinding":
+	{
+		"height": 174.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.myOutput":
+	{
+		"height": 174.0
+	},
+	"output.preferences_editor_help":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "npm_start",
+	"project": "css-dym.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"\\",
+				"eleventy-test/package-lock.json"
+			],
+			[
+				"js",
+				".eleventy.js"
+			],
+			[
+				"m",
+				"post-02.md"
+			],
+			[
+				"h",
+				"_site/post-01/index.html"
+			],
+			[
+				"e",
+				".eleventy.js"
+			],
+			[
+				"md",
+				"post-02.md"
+			],
+			[
+				"in",
+				"index.njk"
+			],
+			[
+				"ht",
+				"public/index.html"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"ap",
+				"tailwindcss-react-v1/src/App.js"
+			],
+			[
+				"re",
+				"tailwindcss-react-v1/README.md"
+			],
+			[
+				"htm",
+				"tailwindcss-react-v1/public/index.html"
+			],
+			[
+				"he",
+				"tailwindcss-react-v2/src/components/Header.js"
+			],
+			[
+				"app",
+				"tailwindcss-react-v1/src/App.js"
+			],
+			[
+				"ind",
+				"tailwindcss-react-v1/src/index.js"
+			],
+			[
+				"foo",
+				"src/components/Footer.js"
+			],
+			[
+				"ins",
+				"src/index.js"
+			],
+			[
+				"css",
+				"src/index.css"
+			],
+			[
+				"nav",
+				"src/components/Navbar.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"un",
+				"Untitled1.js"
+			],
+			[
+				"u",
+				"Untitled1.js"
+			],
+			[
+				"ma",
+				"main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/ExtremeSSD/_PROJECTS/eleventy-project/SUBLIME_USER_SETTINGS.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
